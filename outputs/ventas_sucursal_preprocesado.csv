@@ -1,0 +1,11 @@
+SucursalID,TotalVentas,CantidadVentas,Nombre,Ubicación,GerenteID
+1,7972,8,Sucursal A,Sevilla,101
+2,7652,13,Sucursal B,Bilbao,102
+3,5455,9,Sucursal C,Sevilla,103
+4,6341,10,Sucursal D,Barcelona,104
+5,10676,10,Sucursal E,Madrid,105
+6,9632,10,Sucursal F,Sevilla,106
+7,14152,16,Sucursal G,Bilbao,107
+8,3405,7,Sucursal H,Bilbao,108
+9,7072,9,Sucursal I,Murcia,109
+10,4362,8,Sucursal J,Barcelona,110
